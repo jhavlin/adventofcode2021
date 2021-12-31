@@ -1,0 +1,5 @@
+.metals
+.vscode
+.scalafmt.conf
+*.input
+*.sample
